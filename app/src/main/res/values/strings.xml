@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Draw52Card</string>
+    <string name="rutbai">Rút ngẫu nhiên 1 lá bài</string>
+    <string name="txtthongbao">Kết quả</string>
+</resources>
